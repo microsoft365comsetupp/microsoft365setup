@@ -1,5 +1,5 @@
 # Microsoft365.com/setup - microsoft365/setup
-[![Microsoft365.com/setup](get-started-199847725.jpg)](https://www.peacocktvcom-tv.com/)
+[![Microsoft365.com/setup](get-started-199847725.jpg)](https://sites.google.com/site/officecomsetupp/office-com-setup)
 Office.com/setup - MS Office provides amazing desktop applications such as Microsoft Word, PowerPoint, Excel, OneNote, Publisher, Access and Skype for business. The Office suite introduced by Microsoft is contributing to enhancing the performance of every section of society whether it is enterprises, school students, universities or individuals working in offices. The access to various applications are convenient for the users, and further information could be sought by visiting www.Office.com/setup.
 
 The users should download, install and further activate MS Office to avail the various benefits the Office suite is providing. The interested users can follow the below-given instructions to download MS Office:
